@@ -80,7 +80,7 @@ body {
 .login {
   background-color: rgb(235, 221, 221);
   max-width: 300px;
-  max-height: 450px;
+  max-height: 480px;
   margin: 0 auto;
   /* display: flex; */
   justify-content: center;
